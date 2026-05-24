@@ -229,6 +229,6 @@ Fixed everything so far. If there are any other issue or bugs you find please le
 
 # 💡 Additional Info
 
-I made these nodes knowing little about python and a beginner level understanding of javascript. Feel free to suggest improvements, and if you run into any bugs let me know.
+Feel free to suggest improvements, and if you run into any bugs let me know!
 
 For those asking, I mainly used gemini to create these nodes.
